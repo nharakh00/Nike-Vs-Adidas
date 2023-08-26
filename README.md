@@ -5,5 +5,9 @@ with excel. I have made two separate slideshow. The first slideshow goes through
 
 # Building the Dashboard 
 
+https://docs.google.com/presentation/d/10N6xXwNAbepvJ5QnO0gPzRpdxIyoUbRn7d1fz7VI-ps/edit?usp=sharing
+
 
 # Data Storytelling 
+
+https://docs.google.com/presentation/d/1ekk7Q6wxt1EP2VP08gDdNrgbswz519rd9WguafNf9Fo/edit?usp=sharing
