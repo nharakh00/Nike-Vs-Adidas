@@ -10,3 +10,7 @@ https://docs.google.com/presentation/d/10N6xXwNAbepvJ5QnO0gPzRpdxIyoUbRn7d1fz7VI
 # Data Storytelling 
 
 https://docs.google.com/presentation/d/1ekk7Q6wxt1EP2VP08gDdNrgbswz519rd9WguafNf9Fo/edit?usp=sharing
+
+# Data set used in this project
+
+https://www.kaggle.com/datasets/kaushiksuresh147/adidas-vs-nike
